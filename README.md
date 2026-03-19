@@ -57,7 +57,6 @@ Advanced predictive modeling to identify customers at risk of churning, enabling
 **Key Features:**
 - Feature engineering from transactional data
 - Multiple model comparison (XGBoost, LightGBM, Random Forest)
-- SHAP values for model interpretability
 - Interactive dashboard for predictions
 
 ### 2. Sales Forecasting System
@@ -65,7 +64,6 @@ Time series analysis and forecasting for retail sales data with seasonality deco
 
 **Key Features:**
 - Trend and seasonality analysis
-- Multiple forecasting models (ARIMA, Prophet, LSTM)
 - Confidence intervals and prediction bands
 - Real-time dashboard with forecast visualization
 
@@ -73,10 +71,14 @@ Time series analysis and forecasting for retail sales data with seasonality deco
 Association rule mining to discover purchasing patterns and product relationships.
 
 **Key Features:**
-- Apriori algorithm implementation
 - Network visualization of product associations
 - Recommendation engine
 - Interactive exploration dashboard
+
+### Planned Enhancements
+- **SHAP values** for individual prediction explainability
+- **Forecasting models**: ARIMA / Prophet / LSTM comparisons
+- **Association rules** with Apriori algorithm
 
 ## Setup
 

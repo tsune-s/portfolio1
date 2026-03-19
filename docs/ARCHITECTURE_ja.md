@@ -363,7 +363,7 @@ Main Application
 ### XGBoost & LightGBM
 - **高性能**: 勾配ブースティングの最先端実装
 - **産業標準**: Kaggleコンペなどで実績豊富
-- **解釈性**: 特徴量重要度、SHAP値対応
+- **解釈性**: 特徴量重要度（SHAPは将来対応）
 
 ### Streamlit
 - **高速開発**: Pythonのみでダッシュボード作成
